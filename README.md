@@ -1117,5 +1117,4 @@ Modifies the invitation's details including member name and role.
 
 To purchase and manage your license keys, please contact our finance team at [Mail](mailto:finance@premierank.com).
 
-We’re currently offering an exclusive limited-time promotion—don’t miss the opportunity to take advantage of our special rates!# tuya_home
-# tuya_home_package
+We’re currently offering an exclusive limited-time promotion—don’t miss the opportunity to take advantage of our special rates!

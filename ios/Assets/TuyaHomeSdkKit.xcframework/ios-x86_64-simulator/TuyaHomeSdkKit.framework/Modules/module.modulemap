@@ -1,0 +1,6 @@
+framework module TuyaHomeSdkKit {
+  umbrella header "TuyaHomeSdkKit.h"
+  export *
+
+  module * { export * }
+}

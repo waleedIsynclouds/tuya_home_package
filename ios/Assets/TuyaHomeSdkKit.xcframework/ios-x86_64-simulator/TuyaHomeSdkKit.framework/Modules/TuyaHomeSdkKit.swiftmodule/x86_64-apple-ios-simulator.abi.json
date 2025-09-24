@@ -1,0 +1,95 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TuyaHomeSdkKit",
+    "printedName": "TuyaHomeSdkKit",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "ThingSmartHomeKit",
+        "printedName": "ThingSmartHomeKit",
+        "declKind": "Import",
+        "moduleName": "TuyaHomeSdkKit"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TuyaHomeSdk",
+        "printedName": "TuyaHomeSdk",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "startTuyaSdk",
+            "printedName": "startTuyaSdk(appKey:secretKey:isDebug:key:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14TuyaHomeSdkKit0abC0C05startaC06appKey06secretG07isDebug3keyySS_SSSbSStFZ",
+            "mangledName": "$s14TuyaHomeSdkKit0abC0C05startaC06appKey06secretG07isDebug3keyySS_SSSbSStFZ",
+            "moduleName": "TuyaHomeSdkKit",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14TuyaHomeSdkKit0abC0C",
+        "mangledName": "$s14TuyaHomeSdkKit0abC0C",
+        "moduleName": "TuyaHomeSdkKit",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
